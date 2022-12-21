@@ -32,21 +32,21 @@
 
 ##  Contact Me :telephone_receiver:	:speech_balloon: :bust_in_silhouette:
 <br>
-  <a href="https://www.linkedin.com/in/karla-delgado-613a32239/"><img  alt="Sahira Mena | Linkedin" width="24px" src="./multimedia/Linkedin.svg"/></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/karlavdelgadof">
+  <a href="https://www.linkedin.com/"><img  alt="Sahira Mena | Linkedin" width="24px" src="./multimedia/Linkedin.svg"/></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/">
     <img alt="Karla Delgado | Twitter" width="26px" src="./multimedia/Twitter.svg"/>
   </a> &nbsp;&nbsp;
-  <a href="mailto:karlavdelgadof@gmail.com">
-    <img  alt="Karla Delgado | Gmail" width="26px" src="./multimedia/Gmail.svg"/>
+  <a href="mailto:celestialsolacy@gmail.com">
+    <img  alt="Sahira Mena | Gmail" width="26px" src="./multimedia/Gmail.svg"/>
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/karlavdelgadof/">
-    <img align="left" alt="Karla Delgado | Instagram" width="24px" src="./multimedia/Instagram.svg"/>
+  <a href="https://www.instagram.com/">
+    <img align="left" alt="Sahira Mena | Instagram" width="24px" src="./multimedia/Instagram.svg"/>
   </a> &nbsp;&nbsp;
 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/karlavdelgadof/count.svg" />
+  <img src="https://profile-counter.glitch.me/celestialsolacy/count.svg" />
 </p>
 
 
